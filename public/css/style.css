@@ -1,0 +1,40 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+    padding-top: 6rem; /* 56px 10rem*/
+    font-family: "Nunito", sans-serif;
+}
+
+header {
+    height: 90vh;
+}
+
+.background-blur {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../../img/landing/home.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* filter: blur(2px); */ /*Sesuaikan nilai blur sesuai kebutuhan */
+    z-index: -1;
+}
+
+.with-border {
+    display: inline-block;
+    border-bottom: 5px solid rgb(255, 255, 255); /* Sesuaikan warna dan lebar garis sesuai kebutuhan */
+}
+
+.bg-blue {
+    background-color: #19a564;
+}
+
+.kategori {
+    overflow-x: auto;
+}

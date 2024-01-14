@@ -1,0 +1,22 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.member-icon {
+    position: relative;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: orange;
+}
+
+.member-content {
+    margin-left: 110px;
+}
+
+.member-name {
+    font-size: 24pt;
+}
+
+.img-fit {
+    object-fit: cover;
+}
