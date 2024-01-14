@@ -38,17 +38,17 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a href="{{ route('profile.index') }}"
-                    class="nav-link {{ request()->routeIs('profile.index') ? 'active' : '' }}">
-                    <i class="nav-icon fas fa-user-edit"></i>
-                    <p>Edit Profil</p>
-                </a>
-            </li>
-            <li class="nav-item">
                 <a href="{{ route('member.complaints.index') }}"
                     class="nav-link {{ request()->routeIs('member.complaints.index') ? 'active' : '' }}">
                     <i class="nav-icon fas fa-sticky-note"></i>
                     <p>Saran / Komplain</p>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="{{ route('profile.index') }}"
+                    class="nav-link {{ request()->routeIs('profile.index') ? 'active' : '' }}">
+                    <i class="nav-icon fas fa-user-edit"></i>
+                    <p>Edit Profil</p>
                 </a>
             </li>
         </ul>
