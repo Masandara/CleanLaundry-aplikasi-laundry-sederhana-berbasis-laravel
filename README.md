@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/FGBRPLU.png" width="500"></p>
+<p align="center"><img src="https://i.imgur.com/g3v2FCI.png" width="500"></p>
 
 # Aplikasi Laundry Sederhana
 
@@ -32,23 +32,23 @@ Dalam perancangan Aplikasi ini, kami menggunakan PHP versi 8.1 dan Framework Lar
 
 ### Landing Page
 
-<img src="https://imgur.com/Rh4hW90.png" style="width:100%;" />
+<img src="https://i.imgur.com/JCmeLQt.png" style="width:100%;" />
 
 ### Dashboard Admin
 
-<img src="https://imgur.com/HQMImit.png" style="width:100%;" />
+<img src="https://i.imgur.com/FrNOQiu.png" style="width:100%;" />
 
 ### Dashboard Member
 
-<img src="https://imgur.com/U6GfQiw.png" style="width:100%;" />
+<img src="https://i.imgur.com/QgKYdGp.png" style="width:100%;" />
 
-### Fitur Cetak Bukti Transaksi
+### Fitur Cetak Bukti Transaksi [ Admin ]
 
-<img src="https://imgur.com/p2tqQwp.png" style="width:100%;" />
+<img src="https://i.imgur.com/5Aj0yNv.png" style="width:100%;" />
 
-### Fitur Cetak Laporan Keuangan
+### Fitur Cetak Laporan Keuangan [ Admin ]
 
-<img src="https://imgur.com/HNQitvt.png" style="width:100%;" />
+<img src="https://i.imgur.com/t69mpps.png" style="width:100%;" />
 
 ## Cara Instalasi
 
